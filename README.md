@@ -1,2 +1,2 @@
 # OneMobileSDK-podspecs
-OneMobileSDK CocoaPods Podspec files
+Repo to hold OneMobileSDK Cocoapods Podspec files
