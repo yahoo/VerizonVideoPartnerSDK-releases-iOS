@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
   }
 
   s.source           = {
-    :http => "https://github.com/vidible/OneMobileSDK-podspecs/releases/download/1.0.16/OneMobileSDK_2_3.framework.zip"
+    :http => "https://github.com/vidible/OneMobileSDK-releases/releases/download/1.16.0/OneMobileSDK_2_3.framework.zip"
   }
 
   s.ios.deployment_target = '8.0'
