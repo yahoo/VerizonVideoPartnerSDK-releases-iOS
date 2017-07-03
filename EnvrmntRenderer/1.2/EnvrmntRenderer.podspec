@@ -10,5 +10,5 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '9.0'
   s.dependency 'EnvrmntSDK'
-  s.dependency 'VideoRenderer', '1.0'
+  s.dependency 'VideoRenderer'
 end
