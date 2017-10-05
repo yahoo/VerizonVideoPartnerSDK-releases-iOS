@@ -1,0 +1,98 @@
+{
+	"production" : {
+		"videos" : [
+			{
+				"title" : "MP4 video",
+				"ids" : ["577cc23d50954952cc56bc47"]
+			},
+			{
+				"title" : "360 video",
+				"ids" : ["58a446a9f78ced1f9a2404d7"]
+			},
+			{
+				"title" : "Flat HLS video",
+				"ids" : ["593967be9e45105fa1b5939a"]
+			},
+			{
+				"title" : "Array of videos",
+				"ids" : [
+					"593967be9e45105fa1b5939a", 
+					"577cc23d50954952cc56bc47", 
+					"5939698f85eb427b86aa0a14"
+				]
+			},
+			{
+				"title" : "Video with subtitles",
+				"ids" : ["59397934955a316f1c4f65b4"]
+			},
+			{
+				"title" : "Restricted video",
+				"ids" : ["59396b1c9e45105fa1b599c9"]
+			},
+			{
+				"title" : "360 pattern video",
+				"ids" : ["59396c3a9e45105fa1b59c04"]
+			},	
+			{
+				"title" : "Deleted video",
+				"ids" : ["577cc23d50954952cc56bc48"]
+			},	
+			{
+				"title" : "Broken content video",
+				"ids" : ["59397b6d1de5a1766913c114"]
+			},		
+			{
+				"title" : "Livestream video",
+				"ids" : ["59808fc0c214e30d360fb0df"]
+			},		
+			{
+				"title" : "Nasa live stream",
+				"ids" : ["59833447b90afb42310c19da"]
+			}
+		],
+		"playlists" : [
+			{
+				"title" : "360 + flat videos",
+				"id" : "577cc27b88d2ff0d0f5acc71"
+			}
+		]
+	},
+	"stage" : {
+		"videos" : [
+			{
+				"title" : "MP4 video",
+				"ids" : ["577d09391313230df40d1893"]
+			},
+			{
+				"title" : "Video with thumbnails",
+				"ids" : ["57fcf3385ae7a45b4a1046da"]
+			},
+			{
+				"title" : "Video with subtiles",
+				"ids" : ["5787afc91313230be8de019a"]
+			},
+			{
+				"title" : "Array of videos",
+				"ids" : [
+					"57fcf3385ae7a45b4a1046da", 
+					"5836deb2c4b45e3f987ce1cf", 
+					"5836e008c4b45e3f987ce1d0"					
+				]
+			}
+		],
+		"playlists" : [
+			{
+				"title" : "MP4 videos",
+				"id" : "574d8444e4b06ca29f12d0d4"
+			},
+			{
+				"title" : "Mixed 360 and flat videos",
+				"id" : "57a0c45c977692394e7a5762"
+			},
+			{
+				"title" : "360 pattern videos",
+				"id" : "57a3156b977692394e7aad4a"
+			}
+		]
+	}
+}
