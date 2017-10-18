@@ -31,5 +31,5 @@ Pod::Spec.new do |s|
 
   s.frameworks = 'CoreMedia', 'AVFoundation', 'CoreGraphics'
 
-  s.dependency 'VideoRenderer', '1.10'
+  s.dependency 'VideoRenderer', '1.11'
 end
