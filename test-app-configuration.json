@@ -48,6 +48,14 @@
 			{
 				"title" : "Nasa live stream",
 				"ids" : ["59833447b90afb42310c19da"]
+			},		
+			{
+				"title" : "USP studio (zencoder)",
+				"ids" : ["59f70e1ab90afb149f36b450"]
+			},		
+			{
+				"title" : "USP studio (uplynk)",
+				"ids" : ["59f711d61e6422655cb9753a"]
 			}
 		],
 		"playlists" : [
