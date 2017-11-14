@@ -72,42 +72,25 @@
 	"stage" : {
 		"videos" : [
 			{
-				"title" : "MP4 video",
-				"ids" : ["577d09391313230df40d1893"]
+				"title" : "External 360 video",
+				"ids" : ["5a01e9e531e0a5780062db43"]
 			},
 			{
-				"title" : "Sintel (mp4 with subtitles)",
-				"ids" : ["5787afc91313230be8de019a"]
-			},
-			{
-				"title" : "Video with thumbnails",
-				"ids" : ["57fcf3385ae7a45b4a1046da"]
-			},
-			{
-				"title" : "Forbidden planet",
-				"ids" : ["59ba6e2031e0a572e7284fa8"]
+				"title" : "Celebs have issues (mp4 with subtitles)",
+				"ids" : ["5a01ae9131e0a56f35c4e859"]
 			},
 			{
 				"title" : "Array of videos",
 				"ids" : [
-					"57fcf3385ae7a45b4a1046da", 
-					"5836deb2c4b45e3f987ce1cf", 
-					"5836e008c4b45e3f987ce1d0"					
+					"5a01e9e531e0a5780062db43", 
+					"5a01ae9131e0a56f35c4e859"					
 				]
 			}
 		],
 		"playlists" : [
 			{
-				"title" : "MP4 videos",
-				"id" : "574d8444e4b06ca29f12d0d4"
-			},
-			{
-				"title" : "Mixed 360 and flat videos",
-				"id" : "57a0c45c977692394e7a5762"
-			},
-			{
-				"title" : "360 pattern videos",
-				"id" : "57a3156b977692394e7aad4a"
+				"title" : "SDK playlist",
+				"id" : "5a01ccc4e296af00011710ff"
 			}
 		]
 	}
