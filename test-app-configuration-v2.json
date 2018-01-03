@@ -4,111 +4,171 @@
 			{
 				"id" : "724EBD82889847EB98197FEC5F775941",
 				"title" : "MP4 video",
-				"video_ids" : ["577cc23d50954952cc56bc47"]			
+				"kind" : {
+					"case" : "videoIDs",
+					"value" : [ "577cc23d50954952cc56bc47" ]
+				}
 			},
 			{
 				"id" : "5FD7F4A64CA146968EE5127EF10504C2",
 				"title" : "360 video",
-				"video_ids" : ["58a446a9f78ced1f9a2404d7"]
+				"kind" : {
+					"case" : "videoIDs",
+					"value" : [ "58a446a9f78ced1f9a2404d7" ]
+				}
 			},
 			{
 				"id" : "9AC1592AB06F40FD888F907A482152A7",
 				"title" : "Flat HLS video",
-				"video_ids" : ["593967be9e45105fa1b5939a"]
+				"kind" : {
+					"case" : "videoIDs",
+					"value" : [ "593967be9e45105fa1b5939a" ]
+				}
 			},
 			{
 				"id" :  "972DE7043F734A85816812AD7E0094C9",
 				"title" : "Array of videos",
-				"video_ids" : [
-					"593967be9e45105fa1b5939a", 
-					"577cc23d50954952cc56bc47", 
-					"5939698f85eb427b86aa0a14"
-				]
+				"kind" : {
+					"case" : "videoIDs",
+					"value" : [
+						"593967be9e45105fa1b5939a", 
+						"577cc23d50954952cc56bc47", 
+						"5939698f85eb427b86aa0a14"
+					]
+				}
 			},
 			{
 				"id" : "6EE6830A32514A948D1C2D55FB9B4F00",
 				"title" : "Video with subtitles",
-				"video_ids" : ["59397934955a316f1c4f65b4"]
+				"kind" : {
+					"case" : "videoIDs",
+					"value" : [ "59397934955a316f1c4f65b4" ]
+				}
 			},
 			{
 				"id" : "3A6ACED3D3E041F7AD4C9B3A1B0F6CCC",
 				"title" : "Restricted video",
-				"video_ids" : ["59396b1c9e45105fa1b599c9"]
+				"kind" : {
+					"case" : "videoIDs",
+					"value" : [ "59396b1c9e45105fa1b599c9" ]
+				}
 			},
 			{
 				"id" : "E463037C0D214EBDB9E8A87ED6C8AC05",
 				"title" : "360 pattern video",
-				"video_ids" : ["59396c3a9e45105fa1b59c04"]
+				"kind" : {
+					"case" : "videoIDs",
+					"value" : [ "59396c3a9e45105fa1b59c04" ]
+				}
 			},	
 			{
 				"id" : "B6955BC555E542CE93363E6B2CE59235",
 				"title" : "Deleted video",
-				"video_ids" : ["577cc23d50954952cc56bc48"]
+				"kind" : {
+					"case" : "videoIDs",
+					"value" : [ "577cc23d50954952cc56bc48" ]
+				}
 			},	
 			{
 				"id" : "24DE06F42DFE453FA6F1C37D04F34531",
 				"title" : "Broken content video",
-				"video_ids" : ["59397b6d1de5a1766913c114"]
+				"kind" : {
+					"case" : "videoIDs",
+					"value" : [ "59397b6d1de5a1766913c114" ]
+				}
 			},		
 			{
 				"id" : "7AA1937A7D2E432CAD02714787F87BED",
 				"title" : "Livestream video",
-				"video_ids" : ["59808fc0c214e30d360fb0df"]
+				"kind" : {
+					"case" : "videoIDs",
+					"value" : [ "59808fc0c214e30d360fb0df" ]
+				}
 			},		
 			{
 				"id" : "024C9EC290D04F0CAC5A7F1E88626CDB",
 				"title" : "Nasa live stream",
-				"video_ids" : ["59833447b90afb42310c19da"]
+				"kind" : {
+					"case" : "videoIDs",
+					"value" : [ "59833447b90afb42310c19da" ]
+				}
 			},		
 			{
 				"id" : "24D448C312BB45B4A8CF2C10AA60BAAA",
 				"title" : "USP studio (zencoder)",
-				"video_ids" : ["59f70e1ab90afb149f36b450"]
+				"kind" : {
+					"case" : "videoIDs",
+					"value" : [ "59f70e1ab90afb149f36b450" ]
+				}
 			},		
 			{
 				"id" : "0736587A776544B9992499D2EEE24D37",
 				"title" : "USP studio (uplynk)",
-				"video_ids" : ["59f711d61e6422655cb9753a"]
+				"kind" : {
+					"case" : "videoIDs",
+					"value" : [ "59f711d61e6422655cb9753a" ]
+				}
 			},		
 			{
 				"id" : "BBF146DA3F8C449C9FB749267B1F390A",
 				"title" : "Forbidden planet",
-				"video_ids" : ["59b0122a8c08e07695c98519"]
+				"kind" : {
+					"case" : "videoIDs",
+					"value" : [ "59b0122a8c08e07695c98519" ]
+				}
 			},
 			{
 				"id" : "6C62069302D84ED5A171E112E550C93D",
 				"title" : "360 + flat videos",
-				"playlist_id" : "577cc27b88d2ff0d0f5acc71"
+				"kind" : {
+					"case" : "playlistID",
+					"value" : "577cc27b88d2ff0d0f5acc71"
+				}
 			}
 		],
 		"stage" : [
 			{
 				"id" : "F51DDAF344804FB8A8995AB1457AA816",
 				"title" : "External 360 video",
-				"ids" : ["5a0d98ed31e0a55801c14c29"]
+				"kind" : {
+					"case" : "videoIDs",
+					"value" : [ "5a0d98ed31e0a55801c14c29" ]
+				}
 			},
 			{
 				"id" : "682A66FE26D84F759B87CA932094BACB",
 				"title" : "Celebs have issues (mp4 with subtitles)",
-				"ids" : ["5a01ae9131e0a56f35c4e859"]
+				"kind" : {
+					"case" : "videoIDs",
+					"value" : [ "5a01ae9131e0a56f35c4e859" ]
+				}
 			},
 			{
 				"id" : "3CA6D66978214B338F39E12C6BBAF0D5",
 				"title" : "Short video",
-				"ids" : ["5a0d90c131e0a55801c14bcf"]
+				"kind" : {
+					"case" : "videoIDs",
+					"value" : [ "5a0d90c131e0a55801c14bcf" ]
+				}
 			},
 			{
 				"id" : "4ACFDF790F444060B26AB2856B41ED88",
 				"title" : "Array of videos",
-				"ids" : [
-					"5a0d98ed31e0a55801c14c29", 
-					"5a01ae9131e0a56f35c4e859"					
-				]
+				"kind" : {
+					"case" : "videoIDs",
+					"value" : [
+						"5a0d98ed31e0a55801c14c29", 
+						"5a01ae9131e0a56f35c4e859", 
+					]
+				}
 			},
 			{
 				"id" : "92621C452E434F52AE7EB66069BFD09A",
 				"title" : "SDK playlist",
-				"playlist_id" : "5a01ccc4e296af00011710ff"
+				"kind" : {
+					"case" : "playlistID",
+					"value" :  "5a01ccc4e296af00011710ff"
+				}
 			}
 		]	
 	},
