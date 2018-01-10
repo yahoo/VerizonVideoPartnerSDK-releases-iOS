@@ -60,6 +60,14 @@
 			{
 				"title" : "Forbidden planet",
 				"ids" : ["59b0122a8c08e07695c98519"]
+			},
+			{
+				"title" : "Array of videos with subtitles",
+				"ids" : [
+					"59397934955a316f1c4f65b4", 
+					"593967be9e45105fa1b5939a", 
+					"5a56176485eb422206f43c8c"
+				]
 			}
 		],
 		"playlists" : [
