@@ -3,15 +3,27 @@
 		"videos" : [
 			{
 				"title" : "MP4 video",
-				"ids" : ["577cc23d50954952cc56bc47"]
+				"ids" : ["577cc23d50954952cc56bc47"],
+				"bundle" : {
+					"id" : "com.aol.mobile.one.testapp",
+					"name" : "Test App"
+				}
 			},
 			{
 				"title" : "360 video",
-				"ids" : ["58a446a9f78ced1f9a2404d7"]
+				"ids" : ["58a446a9f78ced1f9a2404d7"],
+				"bundle" : {
+					"id" : "com.aol.mobile.one.testapp",
+					"name" : "Test App"
+				}
 			},
 			{
 				"title" : "Flat HLS video",
-				"ids" : ["593967be9e45105fa1b5939a"]
+				"ids" : ["593967be9e45105fa1b5939a"],
+				"bundle" : {
+					"id" : "com.aol.mobile.one.testapp",
+					"name" : "Test App"
+				}
 			},
 			{
 				"title" : "Array of videos",
@@ -22,47 +34,91 @@
 					"58a446a9f78ced1f9a2404d7",
 					"5939698f85eb427b86aa0a14",
 					"59397934955a316f1c4f65b4"
-				]
+				],
+				"bundle" : {
+					"id" : "com.aol.mobile.one.testapp",
+					"name" : "Test App"
+				}
 			},
 			{
 				"title" : "Video with subtitles",
-				"ids" : ["59397934955a316f1c4f65b4"]
+				"ids" : ["59397934955a316f1c4f65b4"],
+				"bundle" : {
+					"id" : "com.aol.mobile.one.testapp",
+					"name" : "Test App"
+				}
 			},
 			{
 				"title" : "Restricted video",
-				"ids" : ["59396b1c9e45105fa1b599c9"]
+				"ids" : ["59396b1c9e45105fa1b599c9"],
+				"bundle" : {
+					"id" : "com.aol.mobile.one.testapp",
+					"name" : "Test App"
+				}
 			},
 			{
 				"title" : "360 pattern video",
-				"ids" : ["59396c3a9e45105fa1b59c04"]
+				"ids" : ["59396c3a9e45105fa1b59c04"],
+				"bundle" : {
+					"id" : "com.aol.mobile.one.testapp",
+					"name" : "Test App"
+				}
 			},	
 			{
 				"title" : "Deleted video",
-				"ids" : ["577cc23d50954952cc56bc48"]
+				"ids" : ["577cc23d50954952cc56bc48"],
+				"bundle" : {
+					"id" : "com.aol.mobile.one.testapp",
+					"name" : "Test App"
+				}
 			},	
 			{
 				"title" : "Broken content video",
-				"ids" : ["59397b6d1de5a1766913c114"]
+				"ids" : ["59397b6d1de5a1766913c114"],
+				"bundle" : {
+					"id" : "com.aol.mobile.one.testapp",
+					"name" : "Test App"
+				}
 			},		
 			{
 				"title" : "Livestream video",
-				"ids" : ["59808fc0c214e30d360fb0df"]
+				"ids" : ["59808fc0c214e30d360fb0df"],
+				"bundle" : {
+					"id" : "com.aol.mobile.one.testapp",
+					"name" : "Test App"
+				}
 			},		
 			{
 				"title" : "Nasa live stream",
-				"ids" : ["59833447b90afb42310c19da"]
+				"ids" : ["59833447b90afb42310c19da"],
+				"bundle" : {
+					"id" : "com.aol.mobile.one.testapp",
+					"name" : "Test App"
+				}
 			},		
 			{
 				"title" : "USP studio (zencoder)",
-				"ids" : ["59f70e1ab90afb149f36b450"]
+				"ids" : ["59f70e1ab90afb149f36b450"],
+				"bundle" : {
+					"id" : "com.aol.mobile.one.testapp",
+					"name" : "Test App"
+				}
 			},		
 			{
 				"title" : "USP studio (uplynk)",
-				"ids" : ["59f711d61e6422655cb9753a"]
+				"ids" : ["59f711d61e6422655cb9753a"],
+				"bundle" : {
+					"id" : "com.aol.mobile.one.testapp",
+					"name" : "Test App"
+				}
 			},		
 			{
 				"title" : "Forbidden planet",
-				"ids" : ["59b0122a8c08e07695c98519"]
+				"ids" : ["59b0122a8c08e07695c98519"],
+				"bundle" : {
+					"id" : "com.aol.mobile.one.testapp",
+					"name" : "Test App"
+				}
 			},
 			{
 				"title" : "Array of videos with subtitles",
@@ -70,17 +126,29 @@
 					"59397934955a316f1c4f65b4", 
 					"593967be9e45105fa1b5939a", 
 					"5a29790883b51f467d9d6b6a"
-				]
+				],
+				"bundle" : {
+					"id" : "com.aol.mobile.one.testapp",
+					"name" : "Test App"
+				}
 			}
 		],
 		"playlists" : [
 			{
 				"title" : "360 + flat videos",
-				"id" : "577cc27b88d2ff0d0f5acc71"
+				"id" : "577cc27b88d2ff0d0f5acc71",
+				"bundle" : {
+					"id" : "com.aol.mobile.one.testapp",
+					"name" : "Test App"
+				}
 			},
 			{
 				"title" : "Subtitles test",
-				"id" : "5a54fb6d6765fe00011012e9"
+				"id" : "5a54fb6d6765fe00011012e9",
+				"bundle" : {
+					"id" : "com.aol.mobile.one.testapp",
+					"name" : "Test App"
+				}
 			}
 		]
 	},
@@ -88,28 +156,49 @@
 		"videos" : [
 			{
 				"title" : "External 360 video",
-				"ids" : ["5a0d98ed31e0a55801c14c29"]
+				"ids" : ["5a0d98ed31e0a55801c14c29"],
+				"bundle" : {
+
+					"id" : "com.aol.mobile.one.testapp",
+					"name" : "Test App"
+				}
 			},
 			{
 				"title" : "Celebs have issues (mp4 with subtitles)",
-				"ids" : ["5a01ae9131e0a56f35c4e859"]
+				"ids" : ["5a01ae9131e0a56f35c4e859"],
+				"bundle" : {
+					"id" : "com.aol.mobile.one.testapp",
+					"name" : "Test App"
+				}
 			},
 			{
 				"title" : "Short video",
-				"ids" : ["5a0d90c131e0a55801c14bcf"]
+				"ids" : ["5a0d90c131e0a55801c14bcf"],
+				"bundle" : {
+					"id" : "com.aol.mobile.one.testapp",
+					"name" : "Test App"
+				}
 			},
 			{
 				"title" : "Array of videos",
 				"ids" : [
 					"5a0d98ed31e0a55801c14c29", 
 					"5a01ae9131e0a56f35c4e859"					
-				]
+				],
+				"bundle" : {
+					"id" : "com.aol.mobile.one.testapp",
+					"name" : "Test App"
+				}
 			}
 		],
 		"playlists" : [
 			{
 				"title" : "SDK playlist",
-				"id" : "5a01ccc4e296af00011710ff"
+				"id" : "5a01ccc4e296af00011710ff",
+				"bundle" : {
+					"id" : "com.aol.mobile.one.testapp",
+					"name" : "Test App"
+				}
 			}
 		]
 	}
