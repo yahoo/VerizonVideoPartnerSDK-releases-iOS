@@ -131,6 +131,26 @@
 					"id" : "com.aol.mobile.one.testapp",
 					"name" : "Test App"
 				}
+			},
+			{
+				"title" : "USP 15 minutes HLS",
+				"ids" : [
+					"5a72e541955a314f2d5c7653"
+				],
+				"bundle" : {
+					"id" : "com.lookedigital.kidsfirst",
+					"name" : "Kidsfirst"
+				}
+			},
+			{
+				"title" : "USP 1 hour HLS",
+				"ids" : [
+					"5a72ecbd4db5ff387871f788"
+				],
+				"bundle" : {
+					"id" : "com.lookedigital.kidsfirst",
+					"name" : "Kidsfirst"
+				}
 			}
 		],
 		"playlists" : [
