@@ -89,7 +89,7 @@
 				}
 			},		
 			{
-				"title" : "Nasa live stream",
+				"title" : "RT News livestream",
 				"ids" : ["59833447b90afb42310c19da"],
 				"bundle" : {
 					"id" : "com.aol.mobile.one.testapp",
