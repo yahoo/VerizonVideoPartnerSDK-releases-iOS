@@ -49,6 +49,14 @@
 				}
 			},
 			{
+				"title" : "Vertical video",
+				"ids" : ["5a8565c0c74d470591ae78ea"],
+				"bundle" : {
+					"id" : "com.aol.mobile.one.testapp",
+					"name" : "Test App"
+				}
+			},
+			{
 				"title" : "Restricted video",
 				"ids" : ["59396b1c9e45105fa1b599c9"],
 				"bundle" : {
