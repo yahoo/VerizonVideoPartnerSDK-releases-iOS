@@ -66,7 +66,7 @@
 			},
 			{
 				"title" : "360 pattern video",
-				"ids" : ["59396c3a9e45105fa1b59c04", "5aba661c63e1c47a83b6185c", "5aba6630e4aa2e63d4bb6e6a"],
+				"ids" : ["59396c3a9e45105fa1b59c04", "5aba661c63e1c47a83b6185c", "5aba6630e4aa2e63d4bb6e6a", "5aba6bcef8499b75cf385eee"],
 				"bundle" : {
 					"id" : "com.aol.mobile.one.testapp",
 					"name" : "Test App"
