@@ -193,6 +193,15 @@
 				}
 			},
 			{
+				"title" : "MP3",
+				"ids" : ["5acca7f45455f77baa953a5d"],
+				"bundle" : {
+
+					"id" : "com.aol.mobile.one.testapp",
+					"name" : "Test App"
+				}
+			},
+			{
 				"title" : "Celebs have issues (mp4 with subtitles)",
 				"ids" : ["5a01ae9131e0a56f35c4e859"],
 				"bundle" : {
