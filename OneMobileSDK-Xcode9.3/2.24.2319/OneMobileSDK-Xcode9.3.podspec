@@ -1,7 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'OneMobileSDK-Xcode9.3'
-  s.version          = '2.24.2319
-'
+  s.version          = '2.24.2319'
   s.summary          = 'OATH O2/Vidible Mobile SDK'
   s.license          = {
     type: 'Internal',
@@ -22,7 +21,7 @@ Pod::Spec.new do |s|
   }
 
   s.source = {
-    http: 'https://github.com/vidible/OneMobileSDK-releases/releases/download/2.24/OneMobileSDK-Xcode9.2.framework.zip'
+    http: 'https://github.com/vidible/OneMobileSDK-releases/releases/download/2.24/OneMobileSDK-Xcode9.3.framework.zip'
   }
 
   s.ios.deployment_target = '9.0'
