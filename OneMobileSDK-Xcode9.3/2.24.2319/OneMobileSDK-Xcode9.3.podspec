@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = 'OneMobileSDK-Xcode9.2'
+  s.name             = 'OneMobileSDK-Xcode9.3'
   s.version          = '2.24.2319
 '
   s.summary          = 'OATH O2/Vidible Mobile SDK'
