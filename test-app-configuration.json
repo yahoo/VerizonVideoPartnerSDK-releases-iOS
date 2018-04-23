@@ -127,6 +127,14 @@
 					"id" : "com.aol.mobile.one.testapp",
 					"name" : "Test App"
 				}
+			},		
+			{
+				"title" : "Super Short video",
+				"ids" : ["5ade13e620565f4be5e35c72"],
+				"bundle" : {
+					"id" : "com.aol.mobile.one.testapp",
+					"name" : "Test App"
+				}
 			},
 			{
 				"title" : "Array of videos with subtitles",
