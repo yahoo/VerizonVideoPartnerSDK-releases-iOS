@@ -168,6 +168,16 @@
 					"id" : "com.lookedigital.kidsfirst",
 					"name" : "Kidsfirst"
 				}
+			},
+			{
+				"title" : "North Korea",
+				"ids" : [
+					"5af3d2646ba1ba561b3b5e0a"
+				],
+				"bundle" : {
+					"id" : "com.aol.mobile.aolapp",
+					"name" : "AOL.com"
+				}
 			}
 		],
 		"playlists" : [
