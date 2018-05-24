@@ -49,7 +49,7 @@
 				}
 			},
 			{
-				"title" : "Vertical video",
+				"title" : "Vertical video (beon)",
 				"ids" : ["5a8565c0c74d470591ae78ea"],
 				"bundle" : {
 					"id" : "com.aol.mobile.one.testapp",
