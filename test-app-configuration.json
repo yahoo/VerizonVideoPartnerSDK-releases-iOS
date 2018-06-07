@@ -178,6 +178,16 @@
 					"id" : "com.aol.mobile.aolapp",
 					"name" : "AOL.com"
 				}
+			},
+			{
+				"title" : "De Bruyne",
+				"ids" : [
+					"5b187a50c2ec106b09f127a5"
+				],
+				"bundle" : {
+					"id" : "com.livescore.wc",
+					"name" : "livescore"
+				}
 			}
 		],
 		"playlists" : [
