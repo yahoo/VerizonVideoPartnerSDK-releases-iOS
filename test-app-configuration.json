@@ -188,6 +188,16 @@
 					"id" : "com.livescore.wc",
 					"name" : "livescore"
 				}
+			},
+			{
+				"title" : "Sonia",
+				"ids" : [
+					"5b0e66d3c16e5f1a70f97b0a"
+				],
+				"bundle" : {
+					"id" : "com.test",
+					"name" : "test"
+				}
 			}
 		],
 		"playlists" : [
