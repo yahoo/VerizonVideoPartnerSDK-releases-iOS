@@ -26,6 +26,14 @@
 				}
 			},
 			{
+				"title" : "Beon test video",
+				"ids" : ["5b51eab6c0e0af4a07f87ac1"],
+				"bundle" : {
+					"id" : "com.aol.mobile.one.testapp",
+					"name" : "Test App"
+				}
+			},
+			{
 				"title" : "Array of videos",
 				"ids" : [
 					"593967be9e45105fa1b5939a", 
