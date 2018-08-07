@@ -158,6 +158,16 @@
 				}
 			},
 			{
+				"title" : "Hulu video",
+				"ids" : [
+					"5b69e6a5dbaab34962c1c1f1",
+				],
+				"bundle" : {
+					"id" : "com.aol.mobile.one.testapp",
+					"name" : "Test App"
+				}
+			},
+			{
 				"title" : "USP 15 minutes HLS",
 				"ids" : [
 					"5a72e541955a314f2d5c7653"
