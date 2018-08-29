@@ -10,6 +10,14 @@
 				}
 			},
 			{
+				"title" : "MP3 podcast",
+				"ids" : ["5b86aa81367f6d26c4408d42"],
+				"bundle" : {
+					"id" : "com.aol.mobile.one.testapp",
+					"name" : "Test App"
+				}
+			},
+			{
 				"title" : "360 video",
 				"ids" : ["58a446a9f78ced1f9a2404d7"],
 				"bundle" : {
