@@ -10,8 +10,8 @@
 				}
 			},
 			{
-				"title" : "MP3 podcast",
-				"ids" : ["5b86aa81367f6d26c4408d42"],
+				"title" : "MP3 video",
+				"ids" : ["5b86b258f344782c37dd33f4"],
 				"bundle" : {
 					"id" : "com.aol.mobile.one.testapp",
 					"name" : "Test App"
