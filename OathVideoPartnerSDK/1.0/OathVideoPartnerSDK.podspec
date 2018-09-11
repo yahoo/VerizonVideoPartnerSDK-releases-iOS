@@ -29,8 +29,8 @@ DESC
   s.tvos.exclude_files = 'sources/custom controls', 'sources/vpaid'
 
   s.dependency 'VideoRenderer', '1.24'
-  s.dependency 'PlayerCore'
-  s.ios.dependency 'PlayerControls'
+  s.dependency 'PlayerCore', '1.0.1'
+  s.ios.dependency 'PlayerControls', '1.26'
 
   s.ios.deployment_target  = '9.0'
   s.tvos.deployment_target = '9.0'
