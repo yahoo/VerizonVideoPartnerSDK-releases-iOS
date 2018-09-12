@@ -20,8 +20,9 @@ DESC
     'Vladyslav Anokhin' => 'vladyslav.anokhin@oath.com'
   }
 
-  s.source = { git: 'git@github.com:vidible/OathVideoPartnerSDK-iOS',
-               tag: s.version.to_s }
+  s.source           = { git: 'git@github.com:vidible/OathVideoPartnerSDK-iOS',
+                         tag: s.version.to_s }
+  s.resources        = 'support/OathVideoPartnerSDK-Version.plist'
   s.source_files     = 'sources/**/*.swift'
   s.exclude_files    = 'sources/utils/Utils.swift', 'sources/utils/Recorder.swift', 'sources/**/*Test*', 'sources/**/Contents.swift'
 
