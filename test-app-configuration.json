@@ -232,6 +232,16 @@
 					"id" : "com.test",
 					"name" : "test"
 				}
+			},
+			{
+				"title" : "Tucker",
+				"ids" : [
+					"5c0a5fc7943c3c29d928422c"
+				],
+				"bundle" : {
+					"id" : "com.aol.mobile.one.testapp",
+					"name" : "Test App"
+				}
 			}
 		],
 		"playlists" : [
