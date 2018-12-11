@@ -242,6 +242,16 @@
 					"id" : "com.aol.mobile.one.testapp",
 					"name" : "Test App"
 				}
+			},
+			{
+				"title" : "Demo restricted",
+				"ids" : [
+					"5c0ada3805b21a0f476ed706"
+				],
+				"bundle" : {
+					"id" : "com.aol.mobile.one.testapp",
+					"name" : "Test App"
+				}
 			}
 		],
 		"playlists" : [
