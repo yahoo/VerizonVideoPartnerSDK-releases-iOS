@@ -254,9 +254,9 @@
 				}
 			},
 			{
-				"title" : "Demo restricted dup",
+				"title" : "OM test video",
 				"ids" : [
-					"5c0fc75a0822e807ebcea869"
+					"5c05a1a48fcaa95053b5402f"
 				],
 				"bundle" : {
 					"id" : "com.aol.mobile.one.testapp",
