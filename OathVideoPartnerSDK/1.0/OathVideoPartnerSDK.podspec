@@ -7,20 +7,19 @@ Pod::Spec.new do |s|
 
   s.description = <<-DESC
   SDK provides possibility to play videos, control playback, gather metrics, play ads.
-  Checkout https://github.com/aol-public/OneMobileSDK-playground-ios for up-to-date examples.
+  Checkout https://github.com/OathAdPlatforms/OneMobileSDK-playground-ios for up-to-date examples.
 DESC
 
-  s.homepage         = 'https://github.com/vidible/OathVideoPartnerSDK-iOS'
+  s.homepage         = 'https://github.com/OathAdPlatforms/OathVideoPartnerSDK-iOS'
 
   s.authors          = {
+    'Mark Gerl' => 'mark.gerl@oath.com',
     'Andrey Moskvin' => 'andrey.moskvin@oath.com',
-    'Alexey Demedetskiy' => 'alexey.demedetskiy@oath.com',
-    'Bogdan Bilonog' => 'bogdan.bilonog@oath.com',
     'Roman Tysiachnik' => 'roman.tysiachnik@oath.com',
     'Vladyslav Anokhin' => 'vladyslav.anokhin@oath.com'
   }
 
-  s.source           = { git: 'git@github.com:vidible/OathVideoPartnerSDK-iOS',
+  s.source           = { git: 'git@github.com:OathAdPlatforms/OathVideoPartnerSDK-iOS',
                          tag: s.version.to_s }
   s.resources        = 'support/OathVideoPartnerSDK-Version.plist'
   s.source_files     = 'sources/**/*.swift'
