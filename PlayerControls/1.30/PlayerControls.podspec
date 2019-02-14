@@ -24,7 +24,7 @@ DESC
     :submodules => true 
   }   
   s.source_files     = 'PlayerControls/**/*.swift'
-  s.resource_bundle  = { 'PlayerControls' => 'PlayerControls/resources/**/*.png' }
+  s.resource_bundle  = { 'PlayerControls' => 'PlayerControls/resources/**/*.{png,xib}' }
   s.exclude_files    = 'PlayerControls/tests/*'
   
   s.ios.deployment_target = '9.0'
